@@ -1,0 +1,9 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://twitter.com"
+    }
+  ],
+  "retryOn429": true,
+  "fallbackRetryDelay": "10s",
+}
